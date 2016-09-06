@@ -40,3 +40,4 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
 * "Uber"-scale
+* NoSQL-joins
