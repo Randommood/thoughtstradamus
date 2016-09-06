@@ -18,4 +18,11 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * micro containers
 * smart data
 
+### [Waldo's](https://github.com/gwaldo) picks
+* Dataless Services
+* Functional Engineering
+* Micro Data
+* Documentation-as-a-Service - DaaS
+* Pagerless Architecture
+
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
