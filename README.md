@@ -11,6 +11,8 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Architecture-as-a-service - AAAS
 * Data Synergy
 * Service-less service
+* Peta data
+
 
 
 
