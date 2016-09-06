@@ -18,4 +18,9 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * micro containers
 * smart data
 
+### [Jess'](https://github.com/jfrazelle) picks
+* init system fanboys (related: systemd fanboys)
+* container-less containers
+* daemon-less containers
+
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
