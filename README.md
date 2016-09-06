@@ -3,7 +3,7 @@
 Ever wanted to lead some thoughts? Ever led thoughts BEFORE they become popular and you wish you had gotten credit for it? This repo is for you!
 
 ### Rules
-Let's pick the terms for 2017!! The rules are simple, PR your name and your top 5-10 terms for 2017. I'll take edits till December 31st 2016. Prizes and conditions for winning will be discussed in [issue 1](https://github.com/Randommood/Thoughtleaders/issues/1).
+Let's pick the terms for 2017!! The rules are simple, PR your name and your top 5-10 terms for 2017. I'll take edits till December 31st 2016. Prizes and conditions for winning will be discussed in [issue 1](https://github.com/Randommood/thoughtstradamus/issues/1).
 
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
 
@@ -36,8 +36,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * CRDTs are out, Propagator networks are in
 * Orchestration as a Service (hand over your AWS keys...)
 * Orleans-style Serverless as a Service
-* "Low Code" or "No Code" App Creation
-* Lambda Macros - Self-modifying Functions as a Service
 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
