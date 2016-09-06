@@ -24,3 +24,8 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * daemon-less containers
 
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
+
+### [Rand's](https://github.com/rand) picks
+* CRDTs are out, Propagator networks are in
+* Orchestration as a Service (hand over your AWS keys...)
+* Orleans-style Serverless as a Service
