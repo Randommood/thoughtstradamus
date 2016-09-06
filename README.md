@@ -10,4 +10,4 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Deep-stack engineer
 * Architecture-as-a-service - AAAS
 * Data Synergy
-* ...
+* Service-less service
