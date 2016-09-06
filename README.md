@@ -1,4 +1,4 @@
-# Thoughtleaders
+# Thoughtstradamus
 
 Ever wanted to lead some thoughts? Ever led thoughts BEFORE they become popular and you wish you had gotten credit for it? This repo is for you!
 
