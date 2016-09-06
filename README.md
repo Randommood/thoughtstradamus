@@ -5,6 +5,8 @@ Ever wanted to lead some thoughts? Ever led thoughts BEFORE they become popular 
 ### Rules
 Let's pick the terms for 2017!! The rules are simple, PR your name and your top 5-10 terms for 2017. I'll take edits till December 31st 2016. Prizes and conditions for winning will be discussed in [issue 1](https://github.com/Randommood/Thoughtleaders/issues/1).
 
+![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
+
 ### [Ines's](https://github.com/randommood) picks
 * Devless architecture
 * Deep-stack engineer
@@ -38,5 +40,3 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
 * "Uber"-scale
-
-![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
