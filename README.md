@@ -35,4 +35,8 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Orchestration as a Service (hand over your AWS keys...)
 * Orleans-style Serverless as a Service
 
+### [Nathan's](https://github.com/dijkstracula) picks
+* Macroservices
+* "Uber"-scale
+
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
