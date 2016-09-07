@@ -43,3 +43,9 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Macroservices
 * "Uber"-scale
 * NoSQL-joins
+
+### [Cirello's](https://github.com/ccirello) picks
+* "____ is Docker for ____" pitching sentences (in similar fashion nowadays a bunch of business pitch with ___ is Uber for ___)
+* Infraless computing (Infraless, infrastructure less, infrafree, infrastructure free and all alike)
+* Airgap {computing, Internet of Things, IOT}
+* Private IoT cloud
