@@ -60,3 +60,9 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Micro Kernels
 * Chatbots as a Service
 * Data Deletion as a service (delete my data liabilities)
+
+### [Greg's](https://github.com/grepory) picks
+* Cloudtainer
+* Big Mobile
+* Developer Useperience
+* Humangeneering
