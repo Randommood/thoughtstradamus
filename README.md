@@ -60,3 +60,11 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Micro Kernels
 * Chatbots as a Service
 * Data Deletion as a service (delete my data liabilities)
+
+### [Saša's](https://github.com/sasa1977) picks
+* Objectless oriented programming (OLOP)
+* Anthropomorphic Javascript
+* NoGraphQL
+* Dockerless microservices
+* Serverful systems (aka fat servers)
+* Monolith as a microservice (MAAMS)
