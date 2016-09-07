@@ -70,3 +70,11 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * NoSQL 2.0
 * Papers We Secretly Love And Only Read When No One Is Around To Mock Us
 * Ad-Blocker Un-Blockers
+
+### [Saša's](https://github.com/sasa1977) picks
+* Objectless oriented programming (OLOP)
+* Anthropomorphic Javascript
+* NoGraphQL
+* Dockerless microservices
+* Serverful systems (aka fat servers)
+* Monolith as a microservice (MAAMS)
