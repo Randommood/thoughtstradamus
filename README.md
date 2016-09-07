@@ -54,3 +54,9 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 
 ### [Katelyn's](https://github.com/kjperry) picks
 * Turbulence - cloud networking "blips"
+
+### [Fernando's](https://github.com/fmcorey) picks
+* Algorithms as a service
+* Micro Kernels
+* Chatbots as a Service
+* Data Deletion as a service (delete my data liabilities)
