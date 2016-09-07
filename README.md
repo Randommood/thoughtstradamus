@@ -43,3 +43,11 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Macroservices
 * "Uber"-scale
 * NoSQL-joins
+
+### [Calvin's](https://github.com/calvinmetcalf) picks
+* Medium Data
+* Local Machine Learning 
+* End to Middle Encryption 
+* Peer to Peer Web App 
+* Iam (pronounced Yam being internet of things spam) 
+* Multi Page Web App / Multi Page SPA 
