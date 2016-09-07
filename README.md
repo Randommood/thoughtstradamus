@@ -60,3 +60,13 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Micro Kernels
 * Chatbots as a Service
 * Data Deletion as a service (delete my data liabilities)
+
+### [Sean's](https://github.com/seancribbs) picks
+* Data Fission (discovered, not invented)
+* No-routines
+* Barge, an _Enterprise_ consensus protocol
+* Data Dredging - remove Data Mud from your Data Lake (Barge is useful here)
+* Peak La Croix
+* NoSQL 2.0
+* Papers We Secretly Love And Only Read When No One Is Around To Mock Us
+* Ad-Blocker Un-Blockers
