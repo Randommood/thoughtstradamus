@@ -43,3 +43,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Macroservices
 * "Uber"-scale
 * NoSQL-joins
+
+### [Katelyn's](https://github.com/kjperry) picks
+* Turbulence - cloud networking "blips"
