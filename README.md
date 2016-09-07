@@ -51,3 +51,9 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Peer to Peer Web App 
 * Iam (pronounced Yam being internet of things spam) 
 * Multi Page Web App / Multi Page SPA 
+
+### [Daniel's](https://github.com/mrtazz) picks
+* Neural infrastructure
+* Just in Time Functions (Lambda Prime)
+* Full container engineer
+* Nano stream processing
