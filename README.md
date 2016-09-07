@@ -87,3 +87,8 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Mangeneering - The new word to describe all-male engineering teams.
 * Womangeneering - An engineering team that's better than what you have now.
 * Scheduling/Scheduler as a Service
+
+### [Lisa's](https://github.com/lisa) picks
+* Services as a Service
+* Incident Management as a Service
+* Cloud provider disruptions referred to by meteorological terms
