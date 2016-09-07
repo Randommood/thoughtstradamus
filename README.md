@@ -46,11 +46,17 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 
 ### [Calvin's](https://github.com/calvinmetcalf) picks
 * Medium Data
-* Local Machine Learning 
-* End to Middle Encryption 
-* Peer to Peer Web App 
-* Iam (pronounced Yam being internet of things spam) 
-* Multi Page Web App / Multi Page SPA 
+* Local Machine Learning
+* End to Middle Encryption
+* Peer to Peer Web App
+* Iam (pronounced Yam being internet of things spam)
+* Multi Page Web App / Multi Page SPA
 
 ### [Katelyn's](https://github.com/kjperry) picks
 * Turbulence - cloud networking "blips"
+
+### [Fernando's](https://github.com/fmcorey) picks
+* Algorithms as a service
+* Micro Kernels
+* Chatbots as a Service
+* Data Deletion as a service (delete my data liabilities)
