@@ -78,3 +78,12 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Dockerless microservices
 * Serverful systems (aka fat servers)
 * Monolith as a microservice (MAAMS)
+
+### [Greg's](https://github.com/grepory) picks
+* Cloudtainer
+* Big Mobile
+* Developer Useperience
+* Humangeneering
+* Mangeneering - The new word to describe all-male engineering teams.
+* Womangeneering - An engineering team that's better than what you have now.
+* Scheduling/Scheduler as a Service
