@@ -3,7 +3,7 @@
 Ever wanted to lead some thoughts? Ever led thoughts BEFORE they become popular and you wish you had gotten credit for it? This repo is for you!
 
 ### Rules
-Let's pick the terms for 2017!! The rules are simple, PR your name and your top 5-10 terms for 2017. I'll take edits till December 31st 2016. Prizes and conditions for winning will be discussed in [issue 1](https://github.com/Randommood/Thoughtleaders/issues/1).
+Let's pick the terms for 2017!! The rules are simple, PR your name and your top 5-10 terms for 2017. I'll take edits till December 31st 2016. Prizes and conditions for winning will be discussed in [issue 1](https://github.com/Randommood/thoughtstradamus/issues/1).
 
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
 
@@ -42,3 +42,65 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
 * "Uber"-scale
+* NoSQL-joins
+
+### [Calvin's](https://github.com/calvinmetcalf) picks
+* Medium Data
+* Local Machine Learning
+* End to Middle Encryption
+* Peer to Peer Web App
+* Iam (pronounced Yam being internet of things spam)
+* Multi Page Web App / Multi Page SPA
+
+### [Katelyn's](https://github.com/kjperry) picks
+* Turbulence - cloud networking "blips"
+
+### [Fernando's](https://github.com/fmcorey) picks
+* Algorithms as a service
+* Micro Kernels
+* Chatbots as a Service
+* Data Deletion as a service (delete my data liabilities)
+
+### [Sean's](https://github.com/seancribbs) picks
+* Data Fission (discovered, not invented)
+* No-routines
+* Barge, an _Enterprise_ consensus protocol
+* Data Dredging - remove Data Mud from your Data Lake (Barge is useful here)
+* Peak La Croix
+* NoSQL 2.0
+* Papers We Secretly Love And Only Read When No One Is Around To Mock Us
+* Ad-Blocker Un-Blockers
+
+### [Saša's](https://github.com/sasa1977) picks
+* Objectless oriented programming (OLOP)
+* Anthropomorphic Javascript
+* NoGraphQL
+* Dockerless microservices
+* Serverful systems (aka fat servers)
+* Monolith as a microservice (MAAMS)
+
+### [Greg's](https://github.com/grepory) picks
+* Cloudtainer
+* Big Mobile
+* Developer Useperience
+* Humangeneering
+* Mangeneering - The new word to describe all-male engineering teams.
+* Womangeneering - An engineering team that's better than what you have now.
+* Scheduling/Scheduler as a Service
+
+### [Lisa's](https://github.com/lisa) picks
+* Services as a Service
+* Incident Management as a Service
+* Cloud provider disruptions referred to by meteorological terms
+
+### [Daniel's](https://github.com/mrtazz) picks
+* Neural infrastructure
+* Just in Time Functions (Lambda Prime)
+* Full container engineer
+* Nano stream processing
+
+### [Cirello's](https://github.com/ccirello) picks
+* "____ is Docker for ____" pitching sentences (in similar fashion nowadays a bunch of business pitch with ___ is Uber for ___)
+* Infraless computing (Infraless, infrastructure less, infrafree, infrastructure free and all alike)
+* Airgap {computing, Internet of Things, IOT}
+* Private IoT cloud
