@@ -36,8 +36,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * CRDTs are out, Propagator networks are in
 * Orchestration as a Service (hand over your AWS keys...)
 * Orleans-style Serverless as a Service
-* "Low Code" or "No Code" App Creation
-* Lambda Macros - Self-modifying Functions as a Service
 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
