@@ -38,6 +38,8 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Orleans-style Serverless as a Service
 * "Low Code" or "No Code" App Creation
 * Lambda Macros - Self-modifying Functions as a Service
+* FPGA AWS Instance Types
+* [Frank McSherry](https://github.com/frankmcsherry)'s laptop as a Service
 
 ### [Nathan's](https://github.com/dijkstracula) picks
 * Macroservices
