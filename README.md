@@ -19,6 +19,7 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Functions as a Service
 * micro containers
 * smart data
+* Frontend as a service
 
 ### [Jess'](https://github.com/jfrazelle) picks
 * init system fanboys (related: systemd fanboys)
