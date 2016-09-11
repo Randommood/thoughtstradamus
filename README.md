@@ -111,4 +111,5 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * SQL++ - In 2017 Mongodb becomes indistinguishable from Postgres 
 * Frontend-less - In 2017 front-ends are too complicated, we don't need a front-end
 * Cloud Bleaching - In 2017 sanitize your data before your cloud provider is sold off 
-* Stack-less Engineer - In 2017 your engineers won't need a stack 
+* Stack-less Engineer - In 2017 your engineers won't need a stack
+* Golixr - In 2017 Golang with have a language overlay like Elixir to Erlang
