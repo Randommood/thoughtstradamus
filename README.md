@@ -106,3 +106,12 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Infraless computing (Infraless, infrastructure less, infrafree, infrastructure free and all alike)
 * Airgap {computing, Internet of Things, IOT}
 * Private IoT cloud
+
+### [Griffio's](https://github.com/griffio) picks
+* Rest-less stateful services - In 2017 REST is complicated, RPC is back
+* Enterprise Javascript - In 2017 JavaScript becomes indistinguishable from Java
+* SQL++ - In 2017 Mongodb becomes indistinguishable from Postgres 
+* Frontend-less - In 2017 front-ends are too complicated, we don't need a front-end
+* Cloud Bleaching - In 2017 sanitize your data before your cloud provider is sold off 
+* Stack-less Engineer - In 2017 your engineers won't need a stack
+* Golixr - In 2017 Golang will have a language overlay like Elixir to Erlang
