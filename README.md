@@ -16,7 +16,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 
 ### [Ole's](https://github.com/nesQuick) picks
 * 20x Engineer
-* Functions as a Service
 * micro containers
 * smart data
 * Frontend as a service
@@ -29,7 +28,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 ### [Waldo's](https://github.com/gwaldo) picks
 * Dataless Services
 * Functional Engineering
-* Micro Data
 * Documentation-as-a-Service - DaaS
 * Pagerless Architecture
 
