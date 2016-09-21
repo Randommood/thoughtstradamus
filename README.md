@@ -121,4 +121,12 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Serverless Flavoured Erlang
 * Exactly-Twice Processing
 * Full Systemd Developer
+ 
+### [Mark's](https://github.com/mwunsch) picks
+* Container Driven Development
+* Types as a Service
+* Half-Stack Engineer(ing)
+* AI Ops
+* Single-Function Web App
+* Micro-monoliths
 
