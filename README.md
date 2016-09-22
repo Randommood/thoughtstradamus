@@ -130,4 +130,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Shipping your services as a docker container containing a bunch of other containers that are your app servers, db, etc
 * Javascript, shell, python, other interpreted languages derided as 'too close to the metal'
 * "Secure Containers", whatever that means
+* 3D visualization of monitoring data
+* Machine learning chatbot for chatops (e.g., a chatbot that mimics you to Hubot et al)
 * Tabs make a comeback (please god)
