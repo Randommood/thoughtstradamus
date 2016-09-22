@@ -122,3 +122,12 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Exactly-Twice Processing
 * Full Systemd Developer
 
+
+### [Tiaz'](https://github.com/tiaz) picks
+* Ternary computing
+* Userless services
+* Rocks Not Cattle
+* Shipping your services as a docker container containing a bunch of other containers that are your app servers, db, etc
+* Javascript, shell, python, other interpreted languages derided as 'too close to the metal'
+* "Secure Containers", whatever that means
+* Tabs make a comeback (please god)
