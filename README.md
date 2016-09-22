@@ -132,4 +132,6 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * "Secure Containers", whatever that means
 * 3D visualization of monitoring data
 * Machine learning chatbot for chatops (e.g., a chatbot that mimics you to Hubot et al)
+* Artificial intelligence ops (not a chatbot, but machine learning applied to ops things)
+* Artisinal ops (no automation)
 * Tabs make a comeback (please god)
