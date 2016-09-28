@@ -143,3 +143,14 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Artificial intelligence ops (not a chatbot, but machine learning applied to ops things)
 * Artisinal ops (no automation)
 * Tabs make a comeback (please god)
+
+### [Sam's](https://github.com/sdboyer) picks
+* "xzibit", the containerized container management service
+* FBLB. "Fucked By Light Bulb" (pronounced "fublub"). Shorthand for when you get pwned through your IoT
+* "Solutioneer," but like, sincere
+* Cloudstrapping
+* Quantum entangled consistency [protocols]
+* AI meritocracy - that's either AI deciding which humans are best, or AI competing for access to CPU resources and training data sets. (btw I totes have a proof that these reduce to the same thing)
+* Strapless apps (#serverless4life yo)
+* DevMops (dev + monitoring + ops)
+* Functional reactive enterprise OO design patterns framework
