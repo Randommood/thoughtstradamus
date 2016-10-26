@@ -154,3 +154,10 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * Strapless apps (#serverless4life yo)
 * DevMops (dev + monitoring + ops)
 * Functional reactive enterprise OO design patterns framework
+
+### [Andrey's](https://github.com/shazow) picks
+* Portless (for when 1 USB-C port is too many)
+* Wirelesswire (tethers for wireless devices)
+* WebContainers (containers that runs in browsers, why not)
+* Commitless VCS
+* EaaS (Everything As A Server)
