@@ -162,3 +162,10 @@ Let's pick the terms for 2017!! The rules are simple, PR your name and your top 
 * WebContainers (containers that runs in browsers, why not)
 * Commitless VCS
 * EaaS (Everything As A Server)
+
+### [David's](https://github.com/davecaos) picks
+* Spring Monad
+* AI Winter Soldier
+* Nanoservices
+* MLML Machine Learning written in ML
+* PL-SQL# (Oracle™ running inside of .net™ plataform)
