@@ -19,4 +19,6 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * WebC
 * ObsOps (Observability Operations)
 * Cloudless
+* Edge Native
+* Self-driving Blockchain
 * VPUs
