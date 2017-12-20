@@ -14,3 +14,13 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 ### [Ines's](https://github.com/randommood) picks
 * Edge gravity
 * Superdata
+
+
+
+### [rozap's](https://github.com/rozap) picks
+* Federated Blockchain
+* Cloud as a Container (CaaC)
+* Edge Actors
+* Isomorphic Neural Network
+* Blockchain Oriented Functional Actors (best acronym)
+* 10x Cost Abstractions
