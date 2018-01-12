@@ -22,5 +22,5 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * Cloud as a Container (CaaC)
 * Edge Actors
 * Isomorphic Neural Network
-* Blockchain Oriented Functional Actors (best acronym)
+* Blockchain Oriented Functional Actors (bofa)
 * 10x Cost Abstractions
