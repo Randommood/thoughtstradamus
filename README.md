@@ -23,3 +23,11 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * Self-driving Blockchain
 * Ethereum-based Smart Divorces
 * VPUs
+
+### [rozap's](https://github.com/rozap) picks
+* Federated Blockchain
+* Cloud as a Container (CaaC)
+* Edge Actors
+* Isomorphic Neural Network
+* Blockchain Oriented Functional Actors (bofa)
+* 10x Cost Abstractions
