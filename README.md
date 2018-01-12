@@ -15,7 +15,14 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * Edge gravity
 * Superdata
 
-
+### [Joe's](https://github.com/joeshaw) picks
+* WebC
+* ObsOps (Observability Operations)
+* Cloudless
+* Edge Native
+* Self-driving Blockchain
+* Ethereum-based Smart Divorces
+* VPUs
 
 ### [rozap's](https://github.com/rozap) picks
 * Federated Blockchain
