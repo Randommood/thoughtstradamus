@@ -14,6 +14,7 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 ### [Ines's](https://github.com/randommood) picks
 * Edge gravity
 * Superdata
+* MISO (MIcroService Owner)
 
 ### [Joe's](https://github.com/joeshaw) picks
 * WebC
