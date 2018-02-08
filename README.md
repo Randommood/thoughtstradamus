@@ -17,6 +17,7 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * MISO (MIcroService Owner)
 * Edge-native
 * Micro-native
+* Kubernando
 
 ### [Joe's](https://github.com/joeshaw) picks
 * WebC
