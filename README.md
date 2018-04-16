@@ -38,3 +38,12 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * Isomorphic Neural Network
 * Blockchain Oriented Functional Actors (bofa)
 * 10x Cost Abstractions
+
+### [james'](https://github.com/jamtur01) picks
+* IoT for Blockchain / Blockchain for IoT
+* ApplicationLess
+* 1e3x engineers
+* SREless
+* Cloud Uplink Network Transactions
+* Meshless Service Meshes
+
