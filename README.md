@@ -22,6 +22,7 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * IaaS (Insights as a Service)
 * Opservability
 * Botsplaining
+* Data Iceberg
 
 ### [Joe's](https://github.com/joeshaw) picks
 * WebC
