@@ -20,6 +20,8 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * Ethical Data Sync
 * BlockFence
 * SLWs (Service Level Wishes)
+* TDD (Tradeoff Driven Development)
+
 
 ### [Nicole's](https://twitter.com/nicolefv) picks
 * Data Sinkhole
