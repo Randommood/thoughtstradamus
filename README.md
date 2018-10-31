@@ -9,7 +9,23 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
 
-### 2018 Thoughts
+## 2019 Thoughts
+
+### [Ines's](https://github.com/randommood) picks
+* Pluggable state
+* Datarelic
+* Data Tomb Compacter
+* Bayesian Operator
+* High output lerner
+* Ethical Data Sync
+* BlockFence
+* SLWs (Service Level Wishes)
+
+### [Nicole's](https://twitter.com/nicolefv) picks
+* Data Sinkhole
+
+
+## 2018 Thoughts
 
 ### [Ines's](https://github.com/randommood) picks
 * Edge gravity
