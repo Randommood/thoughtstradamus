@@ -9,6 +9,12 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 
 ![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
 
+## 2021 Thoughts
+
+### [Ines's](https://github.com/randommood) picks
+* SLADs (service level aspirations & dreams)
+
+
 ## 2020 Thoughts
 
 ### [Ines's](https://github.com/randommood) picks
