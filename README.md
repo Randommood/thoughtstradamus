@@ -13,6 +13,9 @@ The prize? A Thoughtleader certificate AND the admiration of your peers for any 
 ### [Ines's](https://github.com/randommood) picks
 * SLADs (service level aspirations & dreams)
 
+### [James](https://github.com/jamtur01) picks
+* NFTs (Neoliberal Fissiparous Techbros)
+* Ivorocracy (Organizations free from the horrors of internal political speech)
 
 ## 2020 Thoughts
 
