@@ -3,11 +3,10 @@
 Ever wanted to lead some thoughts? Ever led thoughts BEFORE they become popular and you wish you had gotten credit for it? This repo is for you!
 
 ### Rules
-Let's try to predict the thoughtleading terms of the year!! The rules are simple, PR your name and your top 5-10 terms to win the satisfaction and admiration of your peers for any term submitted before a known record of it that makes it to industry lingo. Some discussion in [issue 1](https://github.com/Randommood/thoughtstradamus/issues/1).
+Let's try to predict the thoughtleading terms of the year!! The rules are simple, PR your name and your top 1-3 terms to win.
+The prize? A Thoughtleader certificate AND the admiration of your peers for any term submitted before a known record of it that makes it to industry lingo.
 
-Check out our [2017's leading thoughts](2017_thoughts.md)!!
-
-![](http://i.giphy.com/l0MYEqEzwMWFCg8rm.gif)
+![](https://media.giphy.com/media/laUY2MuoktHPy/giphy.gif)
 
 ## 2021 Thoughts
 
@@ -21,61 +20,9 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 * VDD (viral driven development)
 
 
-## 2019 Thoughts
+---
+## The Archives
 
-### [Ines's](https://github.com/randommood) picks
-* Pluggable state
-* Datarelic
-* Data Tomb Compacter
-* Bayesian Operator
-* High output lerner
-* Ethical Data Sync
-* BlockFence
-* SLWs (Service Level Wishes)
-* TDD (Tradeoff Driven Development)
-
-
-### [Nicole's](https://twitter.com/nicolefv) picks
-* Data Sinkhole
-
-
-## 2018 Thoughts
-
-### [Ines's](https://github.com/randommood) picks
-* Edge gravity
-* Superdata
-* MISO (MIcroService Owner)
-* Edge-native
-* Micro-native
-* Kubernandos
-* Ops Meshes
-* IaaS (Insights as a Service)
-* Opservability
-* Botsplaining
-* Data Iceberg
-
-### [Joe's](https://github.com/joeshaw) picks
-* WebC
-* ObsOps (Observability Operations)
-* Cloudless
-* Edge Native
-* Self-driving Blockchain
-* Ethereum-based Smart Divorces
-* VPUs
-
-### [rozap's](https://github.com/rozap) picks
-* Federated Blockchain
-* Cloud as a Container (CaaC)
-* Edge Actors
-* Isomorphic Neural Network
-* Blockchain Oriented Functional Actors (bofa)
-* 10x Cost Abstractions
-
-### [james'](https://github.com/jamtur01) picks
-* IoT for Blockchain / Blockchain for IoT
-* ApplicationLess
-* 1e3x engineers
-* SREless
-* Wireless Transactions Frameworks
-* Meshless Service Meshes
-
+* [2019](2019_thoughts.md) leading thoughts
+* [2018](2018_thoughts.md) leading thoughts
+* [2017](2017_thoughts.md) leading thoughts
